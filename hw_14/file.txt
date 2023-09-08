@@ -1,0 +1,1 @@
+I wasn't able to correctly complete the functional program style and did it normally. I was unable to determine how run time vary
